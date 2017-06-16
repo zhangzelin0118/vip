@@ -20,7 +20,7 @@
 
 ### 流程图：
 
-![Python员工工资管理系统](F:\1000.PycharmProjects\阶段一\第三周作业-员工工资管理系统\Python员工工资管理系统.png)
+https://www.processon.com/view/link/5943eeb4e4b0ef6cc86cc417
 
 
 
